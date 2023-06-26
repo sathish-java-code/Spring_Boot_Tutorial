@@ -2,7 +2,7 @@ public class Objects{
 
 
     public void hello(){
-        System.out.println("hello spring boot tutorial");
+        System.out.println(" Welcome to hello spring boot tutorial");
     }
     public static void main(String[] args) {
 
